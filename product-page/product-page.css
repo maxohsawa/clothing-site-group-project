@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+}
+
+.products {
+    
+}
+
+p {
+    font-family: 'Titillium Web', sans-serif;
+    color: black;
+    font-size: 2em;
+    margin-top: -100px;
+    margin-left: -25px;
+    /* text-shadow: 2px 2px white; */
+}
+
+a {
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    font-family: 'Titillium Web', sans-serif;
+    color: black;
+    background-color: white;
+    font-size: 1.1em;
+}
+
+.title {
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    background-color: black;
+    margin-top: 0px;
+    margin-left: 0px;
+    padding: 50px;
+    font-size: 1.5em;
+}
+
+@media (max-width: 767.98px) { 
+
+    .img-div {
+        margin-left: 50px;
+        margin-right: 100px;
+        margin-bottom: 50px;
+    }
+}
